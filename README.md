@@ -18,6 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🐍 The snake
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=elmacode1&icon=9&color=2)](https://visitcount.itsvg.in)
 
